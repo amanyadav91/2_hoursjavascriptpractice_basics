@@ -27,6 +27,19 @@ function countVowels(string) {
 
 // Write a JavaScript program to print "Hello, World!" to the console.
 // Create a variable and store your name in it. Display it in the console.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Answer of 2nd Question </h1>
+<p>Create a variable, assign your name to it, and display it:</p>
+<p id="demo"></p>
+<script>
+let myname = "Aman Yadav";
+document.getElementById("demo").innerHTML = myname;
+</script>
+</body>
+</html>
+
 // Write a JavaScript function to add two numbers.
 // Write a function that takes an array as an argument and returns the sum of its elements.
 // Write a program to find the maximum of two numbers.
